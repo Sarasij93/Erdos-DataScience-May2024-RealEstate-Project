@@ -1,0 +1,529 @@
+,School_Name,Schooldigger_Rating,Zipcode
+0,Daniel Bagley Elementary School,5,98103
+1,B F Day Elementary School,5,98103
+2,Green Lake Elementary School,4,98103
+3,Hamilton International Middle School,5,98103
+4,Cascadia Elementary,5,98103
+5,Robert Eagle Staff Middle School,5,98103
+6,Lincoln High School,5,98103
+7,Rock Creek Elementary,5,98038
+8,Glacier Park Elementary,4,98038
+9,Lake Wilderness Elementary,4,98038
+10,Shadow Lake Elementary,4,98038
+11,Tahoma Senior High School,5,98038
+12,Tahoma Elementary,4,98038
+13,Cedar River Elementary,5,98038
+14,Tahoma Open Doors,5,98038
+15,Bryant Elementary School,5,98115
+16,Eckstein Middle School,5,98115
+17,Loyal Heights Elementary School,4,98115
+18,Olympic View Elementary School,3,98115
+19,Roosevelt High School,5,98115
+20,Sacajawea Elementary School,3,98115
+21,Thornton Creek Elementary School,5,98115
+22,View Ridge Elementary School,5,98115
+23,Wedgwood Elementary School,5,98115
+24,Sand Point Elementary,3,98115
+25,Stephen Decatur Elementary School,5,98115
+26,John J. Audubon Elementary,5,98052
+27,Benjamin Rush Elementary,5,98052
+28,Ready Start Preschool,5,98052
+29,Horace Mann Elementary,5,98052
+30,Redmond Elementary,5,98052
+31,Redmond High School,5,98052
+32,Redmond Middle School,5,98052
+33,Rose Hill Middle School,5,98052
+34,Contractual Schools,5,98052
+35,Norman Rockwell Elementary,5,98052
+36,Albert Einstein Elementary,5,98052
+37,Stella Schola,5,98052
+38,Clara Barton Elementary School,5,98052
+39,Old Redmond Schoolhouse,5,98052
+40,Sammamish River Valley Online School,4,98052
+41,Sunrise Elementary,5,98052
+42,Washington Network for Innovative Careers Skill Center,5,98052
+43,Licton Springs K-8,5,98117
+44,Ballard High School,4,98117
+45,Greenwood Elementary School,5,98117
+46,North Beach Elementary School,5,98117
+47,Whitman Middle School,5,98117
+48,Whittier Elementary School,5,98117
+49,Salmon Bay K-8 School,4,98117
+50,Meridian Elementary School,2,98042
+51,Sunrise Elementary School,4,98042
+52,Horizon Elementary School,2,98042
+53,Kentlake High School,3,98042
+54,Maple View Middle School,4,98042
+55,Cedar Valley Elementary School,1,98042
+56,Covington Elementary School,3,98042
+57,Grass Lake Elementary School,4,98042
+58,Cedar Heights Middle School,2,98042
+59,Crestwood Elementary School,3,98042
+60,Mattson Middle School,3,98042
+61,Kentwood High School,3,98042
+62,Jenkins Creek Elementary School,2,98042
+63,Lake Washington Technical Academy,5,98034
+64,Open Doors at LWIT,5,98034
+65,Carl Sandburg Elementary,5,98034
+66,Finn Hill Middle School,4,98034
+67,Helen Keller Elementary,4,98034
+68,John Muir Elementary,3,98034
+69,Juanita Elementary,4,98034
+70,Juanita High School,5,98034
+71,Kamiakin Middle School,4,98034
+72,Robert Frost Elementary,4,98034
+73,Henry David Thoreau Elementary,5,98034
+74,Discovery Community School,5,98034
+75,Environmental & Adventure School,5,98034
+76,Futures School,5,98034
+77,Rainier Valley Leadership Academy,5,98118
+78,Martin Luther King Junior Elementary School,1,98118
+79,Dunlap Elementary School,1,98118
+80,Emerson Elementary School,0,98118
+81,Graham Hill Elementary School,2,98118
+82,Alan T. Sugiyama High School,5,98118
+83,Rainier Beach High School,1,98118
+84,Aki Kurose Middle School,2,98118
+85,Rising Star Elementary School,2,98118
+86,Wing Luke Elementary School,3,98118
+87,Orca K-8 School,3,98118
+88,Hawthorne Elementary School,4,98118
+89,South Shore Pk-8 School,2,98118
+90,Interagency Open Doors,5,98118
+91,Adelaide Elementary School,1,98023
+92,Brigadoon Elementary School,2,98023
+93,Decatur High School,1,98023
+94,Lake Grove Elementary School,1,98023
+95,Lakota Middle School,1,98023
+96,Olympic View Elementary School,0,98023
+97,Twin Lakes Elementary School,3,98023
+98,Green Gables Elementary School,2,98023
+99,Enterprise Elementary School,1,98023
+100,Silver Lake Elementary School,1,98023
+101,Sherwood Forest Elementary School,1,98023
+102,Employment Transition Program,5,98023
+103,Birth to Three Development Center,5,98023
+104,Technology Access Foundation Academy at Saghalie,1,98023
+105,Eastgate Elementary School,4,98006
+106,Newport Heights Elementary,5,98006
+107,Newport Senior High School,5,98006
+108,Somerset Elementary School,5,98006
+109,Puesta del Sol Elementary School,4,98006
+110,Tyee Middle School,5,98006
+111,Jing Mei Elementary School,5,98006
+112,Cougar Ridge Elementary,5,98006
+113,Broadview-Thomson K-8 School,2,98133
+114,Ingraham High School,4,98133
+115,Northgate Elementary School,3,98133
+116,Meridian Park Elementary School,5,98133
+117,Echo Lake Elementary School,3,98133
+118,Parkwood Elementary,4,98133
+119,Shorewood High School,5,98133
+120,Edwin Pratt Learning Center,5,98133
+121,Maplewood Heights Elementary School,4,98059
+122,Hazen Senior High School,4,98059
+123,Sierra Heights Elementary School,2,98059
+124,Honey Dew Elementary,1,98059
+125,Apollo Elementary,5,98059
+126,Briarwood Elementary,5,98059
+127,Liberty Senior High School,5,98059
+128,Maple Hills Elementary,5,98059
+129,Maywood Middle School,5,98059
+130,Newcastle Elementary School,5,98059
+131,Benson Hill Elementary School,1,98058
+132,Cascade Elementary School,1,98058
+133,Lindbergh Senior High School,2,98058
+134,Renton Park Elementary School,0,98058
+135,Tiffany Park Elementary School,2,98058
+136,Fairwood Elementary School,2,98058
+137,Lake Youngs Elementary School,4,98058
+138,Meeker Middle School,2,98058
+139,Ridgewood Elementary School,4,98058
+140,Carriage Crest Elementary School,4,98058
+141,Northwood Middle School,4,98058
+142,Briarcrest Elementary,4,98155
+143,Brookside Elementary,4,98155
+144,Kellogg Middle School,4,98155
+145,Lake Forest Park Elementary,4,98155
+146,Ridgecrest Elementary,4,98155
+147,Shorecrest High School,4,98155
+148,Handicapped Contractual Services,5,98155
+149,Home Education Exchange,4,98155
+150,Fircrest Residential Habilitation,5,98155
+151,Cascade K-8 Community School,5,98155
+152,Eastlake High School,5,98074
+153,Margaret Mead Elementary,5,98074
+154,Samantha Smith Elementary,5,98074
+155,Christa Mcauliffe Elementary,5,98074
+156,Inglewood Middle School,5,98074
+157,Elizabeth Blackwell Elementary,5,98074
+158,Renaissance School of Art and Reasoning,5,98074
+159,Rachel Carson Elementary,5,98074
+160,Alexander Graham Bell Elementary,4,98033
+161,Benjamin Franklin Elementary,5,98033
+162,Kirkland Middle School,5,98033
+163,Community School,4,98033
+164,Lake Washington High School,5,98033
+165,Lakeview Elementary,5,98033
+166,Mark Twain Elementary,5,98033
+167,Peter Kirk Elementary,5,98033
+168,Rose Hill Elementary,5,98033
+169,Emerson High School,3,98033
+170,Northstar Middle School,5,98033
+171,International Community School,5,98033
+172,Emerson K-12,5,98033
+173,Issaquah Middle School,5,98027
+174,Issaquah High School,5,98027
+175,Issaquah Valley Elementary,4,98027
+176,Clark Elementary,4,98027
+177,Issaquah Preschool Academy,5,98027
+178,Gibson Ek High School,4,98027
+179,Holly Street Early Learning Center,5,98027
+180,Cougar Mountain Middle School,5,98027
+181,John Rogers Elementary School,3,98125
+182,Nathan Hale High School,4,98125
+183,Olympic Hills Elementary School,2,98125
+184,Middle College High School,4,98125
+185,Hazel Wolf K-8,4,98125
+186,Jane Addams Middle School,4,98125
+187,Cedar Park Elementary School,5,98125
+188,Highlands Elementary School,0,98056
+189,Kennydale Elementary School,4,98056
+190,McKnight Middle School,2,98056
+191,Griffin Home,5,98056
+192,Meadow Crest Early Childhood Education Center,5,98056
+193,Ella Baker High School (Open Doors),5,98056
+194,Renton Technical High School,5,98056
+195,Renton Technical College,5,98056
+196,Hazelwood Elementary School,4,98056
+197,Vera Risdon Middle School,3,98056
+198,Emily Dickinson Elementary,4,98053
+199,Evergreen Middle School,5,98053
+200,Louisa May Alcott Elementary,5,98053
+201,Explorer Community School,5,98053
+202,Rosa Parks Elementary,5,98053
+203,Nikola Tesla STEM High School,5,98053
+204,Timberline Middle School,5,98053
+205,Ella Baker Elementary School,5,98053
+206,West Auburn Senior High School,0,98001
+207,Evergreen Heights Elementary,2,98001
+208,Auburn Opportunity Project,5,98001
+209,Meredith Hill Elementary School,2,98001
+210,Sequoyah Middle School,0,98001
+211,Camelot Elementary School,1,98001
+212,Kilo Middle School,1,98001
+213,Lake Dolloff Elementary School,1,98001
+214,Lakeland Elementary School,2,98001
+215,Thomas Jefferson High School,1,98001
+216,Valhalla Elementary School,1,98001
+217,Pine Lake Middle School,5,98075
+218,Sunny Hills Elementary,5,98075
+219,Discovery Elementary,5,98075
+220,Skyline High School,5,98075
+221,Cascade Ridge Elementary,5,98075
+222,Creekside Elementary,5,98075
+223,Cedar Trails Elementary,5,98075
+224,Summit Public School: Atlas,4,98126
+225,West Seattle Elementary School,3,98126
+226,Roxhill Elementary School,1,98126
+227,Fairmount Park Elementary School,4,98126
+228,Lea Hill Elementary School,2,98092
+229,Ilalko Elementary School,2,98092
+230,Hazelwood Elementary School,3,98092
+231,Rainier Middle School,1,98092
+232,Auburn Mountainview High School,2,98092
+233,Arthur Jacobsen Elementary,1,98092
+234,Willow Crest Elementary,3,98092
+235,Lakeland Hills Elementary,4,98092
+236,Lake View Elementary School,3,98092
+237,Auburn Riverside High School,2,98092
+238,Bowman Creek Elementary,4,98092
+239,Auburn Online,5,98092
+240,Muckleshoot Tribal School,5,98092
+241,Beacon Hill International School,4,98144
+242,Franklin High School,3,98144
+243,Kimball Elementary School,2,98144
+244,John Muir Elementary School,2,98144
+245,Washington Middle School,3,98144
+246,Thurgood Marshall Elementary,4,98144
+247,Career Link,5,98106
+248,Southwest Youth and Family Services,5,98106
+249,Pathfinder K-8 School,4,98106
+250,Chief Sealth International High School,2,98106
+251,Highland Park Elementary School,2,98106
+252,Sanislo Elementary School,1,98106
+253,David T. Denny International Middle School,2,98106
+254,Louisa Boren STEM K-8,2,98106
+255,Head Start,5,98106
+256,Alki Elementary School,5,98116
+257,Lafayette Elementary School,4,98116
+258,Madison Middle School,5,98116
+259,Genesee Hill Elementary,5,98116
+260,West Seattle High School,5,98116
+261,Issaquah Special Services,5,98029
+262,Beaver Lake Middle School,5,98029
+263,Challenger Elementary,5,98029
+264,Grand Ridge Elementary,5,98029
+265,Pacific Cascade Middle School,5,98029
+266,Endeavour Elementary School,5,98029
+267,Bellevue High School,5,98004
+268,Enatai Elementary School,4,98004
+269,Chinook Middle School,4,98004
+270,Clyde Hill Elementary,5,98004
+271,Lawton Elementary School,5,98199
+272,Catharine Blaine K-8 School,5,98199
+273,Magnolia Elementary School,4,98199
+274,Echo Glen School,5,98065
+275,Mount Si High School,5,98065
+276,Snoqualmie Elementary,5,98065
+277,Two Rivers School,3,98065
+278,Cascade View Elementary School,5,98065
+279,Snoqualmie Access,5,98065
+280,Snoqualmie Parent Partnership Program,5,98065
+281,Snoqualmie Valley School District Open Doors,5,98065
+282,Timber Ridge Elementary School,5,98065
+283,Snoqualmie Middle School,5,98065
+284,Garfield High School,3,98122
+285,Bailey Gatzert Elementary School,1,98122
+286,Leschi Elementary School,2,98122
+287,Madrona K-5 School,2,98122
+288,Nova High School,4,98122
+289,Seattle World School,5,98122
+290,Interagency Detention School,5,98122
+291,Arbor Heights Elementary School,3,98146
+292,Cascade Middle School,0,98146
+293,Evergreen High School,1,98146
+294,Hazel Valley Elementary,0,98146
+295,Mount View Elementary,0,98146
+296,Shorewood Elementary,3,98146
+297,White Center Heights Elementary,0,98146
+298,New Start,5,98146
+299,Gateway to College,5,98146
+300,Highline Open Doors 1418,5,98146
+301,Ardmore Elementary School,3,98008
+302,Bennett Elementary School,5,98008
+303,Interlake Senior High School,5,98008
+304,Phantom Lake Elementary,4,98008
+305,Sherwood Forest Elementary,2,98008
+306,Spiritridge Elementary School,5,98008
+307,Tillicum Middle School,5,98008
+308,Sunset Elementary,4,98008
+309,Arrowhead Elementary,4,98028
+310,Inglemoor High School,5,98028
+311,Kenmore Elementary,3,98028
+312,Kenmore Middle School,4,98028
+313,Moorlands Elementary,5,98028
+314,Island Park Elementary,5,98040
+315,Lakeridge Elementary School,5,98040
+316,Mercer Island High School,5,98040
+317,Islander Middle School,5,98040
+318,West Mercer Elementary,5,98040
+319,Northwood Elementary School,5,98040
+320,Cascade Public Schools,1,98198
+321,Woodmont K-8 School,1,98198
+322,Des Moines Elementary,1,98198
+323,Madrona Elementary,0,98198
+324,Midway Elementary,0,98198
+325,Mount Rainier High School,2,98198
+326,Pacific Middle School,1,98198
+327,Parkside Elementary,0,98198
+328,Maritime High School,3,98198
+329,River Ridge Elementary,0,98198
+330,Gateway to College,5,98198
+331,Federal Way High School,1,98003
+332,Illahee Middle School,0,98003
+333,Mirror Lake Elementary School,0,98003
+334,Nautilus K-8 School,3,98003
+335,Sacajawea Middle School,1,98003
+336,Wildwood Elementary School,0,98003
+337,Panther Lake Elementary School,0,98003
+338,Mark Twain Elementary School,0,98003
+339,Rainier View Elementary School,0,98003
+340,Internet Academy,5,98003
+341,Federal Way Public Academy,5,98003
+342,Support School,5,98003
+343,Todd Beamer High School,1,98003
+344,Federal Way Running Start Home School,5,98003
+345,Career Academy at Truman High School,5,98003
+346,Federal Way Public Schools Headstart,5,98003
+347,Federal Way Public School ECEAP,5,98003
+348,Gateway to College,5,98003
+349,Open Doors Youth Reengagement (1418),5,98003
+350,East Hill Elementary School,0,98031
+351,Kentridge High School,4,98031
+352,Meridian Middle School,2,98031
+353,Panther Lake Elementary School,1,98031
+354,Park Orchard Elementary School,1,98031
+355,Soos Creek Elementary School,2,98031
+356,Springbrook Elementary School,1,98031
+357,Glenridge Elementary,3,98031
+358,Emerald Park Elementary School,3,98031
+359,Kent Laboratory Academy,5,98031
+360,Leota Middle School,5,98072
+361,Wellington Elementary,5,98072
+362,Hollywood Hill Elementary,5,98072
+363,Woodinville High School,5,98072
+364,Ruby Bridges Elementary,4,98072
+365,Kokanee Elementary,5,98072
+366,Rainier Prep,4,98168
+367,Impact Public Schools,3,98168
+368,Impact | Salish Sea Elementary,5,98168
+369,Beverly Park Elementary at Glendale,0,98168
+370,Cedarhurst Elementary,0,98168
+371,Hilltop Elementary,0,98168
+372,Southern Heights Elementary,5,98168
+373,Glacier Middle School,0,98168
+374,Foster Senior High School,1,98168
+375,Showalter Middle School,0,98168
+376,Tukwila Elementary,2,98168
+377,Cascade View Elementary,0,98168
+378,Tukwila Online Learning,5,98168
+379,McGilvra Elementary School,5,98112
+380,Montlake Elementary School,5,98112
+381,Stevens Elementary School,4,98112
+382,Edmonds S. Meany Middle School,2,98112
+383,Nelsen Middle School,1,98055
+384,Talbot Hill Elementary School,3,98055
+385,H.O.M.E. Program,5,98055
+386,Renton Academy,5,98055
+387,Open Door Youth Reengagement,5,98055
+388,Adams Elementary School,5,98107
+389,West Woodland Elementary School,5,98107
+390,Gatewood Elementary School,4,98136
+391,Rainier View Elementary School,1,98178
+392,Bryn Mawr Elementary School,1,98178
+393,Campbell Hill Elementary School,0,98178
+394,Lakeridge Elementary School,1,98178
+395,Dimmitt Middle School,0,98178
+396,Talley High School,0,98178
+397,Dynamic Family Services,5,98030
+398,Kent-Meridian High School,1,98030
+399,Pine Tree Elementary School,1,98030
+400,Scenic Hill Elementary School,1,98030
+401,George T. Daniel Elementary School,1,98030
+402,Meadow Ridge Elementary School,1,98030
+403,Martin Sortun Elementary School,4,98030
+404,Millennium Elementary School,1,98030
+405,Birth to Age 2,5,98030
+406,Individualized Graduation & Degree Program,5,98030
+407,The Outreach Program,5,98030
+408,Kent Virtual Academy,0,98030
+409,Viewlands Elementary School,3,98177
+410,Albert Einstein Middle School,4,98177
+411,Highland Terrace Elementary,4,98177
+412,Melvin G Syre Elementary,4,98177
+413,Gregory Heights Elementary,2,98166
+414,Marvista Elementary,3,98166
+415,Seahurst Elementary School,1,98166
+416,Sylvester Middle School,2,98166
+417,Highline Public Schools Virtual Academy,5,98166
+418,Byron Kibler Elementary School,3,98022
+419,Enumclaw Senior High School,4,98022
+420,Enumclaw Middle School,3,98022
+421,Thunder Mountain Middle School,3,98022
+422,Special Educational School,5,98022
+423,JJ Smith Elementary,5,98022
+424,Southwood Elementary School,3,98022
+425,Westwood Elementary School,3,98022
+426,Sunrise Elementary,3,98022
+427,John Stanford International School,5,98105
+428,Laurelhurst Elementary School,4,98105
+429,McDonald International School,5,98105
+430,North Bend Elementary School,4,98045
+431,Edwin R Opstad Elementary,4,98045
+432,Twin Falls Middle School,4,98045
+433,Auburn Senior High School,1,98002
+434,Cascade Middle School,1,98002
+435,Chinook Elementary School,1,98002
+436,Dick Scobee Elementary School,0,98002
+437,Olympic Middle School,1,98002
+438,Pioneer Elementary School,1,98002
+439,Gildo Rey Elementary School,1,98002
+440,Terminal Park Elementary School,2,98002
+441,Washington Elementary School,1,98002
+442,Mt Baker Middle School,2,98002
+443,Special Educational School,5,98002
+444,Laura Ingalls Wilder Elementary,5,98077
+445,Cottage Lake Elementary,4,98077
+446,Bear Creek Elementary,5,98077
+447,East Ridge Elementary,5,98077
+448,Timbercrest Middle School,5,98077
+449,Northshore Networks,5,98077
+450,Northshore Family Partnership,5,98077
+451,Bothell High School,4,98011
+452,C O Sorenson,5,98011
+453,Maywood Hills Elementary,4,98011
+454,Northshore Middle School,4,98011
+455,Westhill Elementary,4,98011
+456,Woodin Elementary,3,98011
+457,Woodmoor Elementary,3,98011
+458,Woodinville Community Center,5,98011
+459,Cherry Valley Elementary School,4,98019
+460,Cedarcrest High School,4,98019
+461,Eagle Rock Multiage School,5,98019
+462,Mercer International Middle School,3,98108
+463,Cleveland High School STEM,3,98108
+464,Concord International School,0,98108
+465,Dearborn Park International School,4,98108
+466,Maple Elementary School,4,98108
+467,Bridges Transition,5,98108
+468,Raisbeck Aviation High School,5,98108
+469,Frantz Coe Elementary School,5,98119
+470,McClure Middle School,4,98119
+471,Residential Consortium,5,98119
+472,Cascade Parent Partnership Program,3,98119
+473,Cherry Crest Elementary School,5,98005
+474,Sammamish Senior High,4,98005
+475,Woodridge Elementary,4,98005
+476,International School,5,98005
+477,Central Educational Services,5,98005
+478,Career Education Options Reengagement Program,5,98005
+479,Wilburton Elementary School,4,98005
+480,Bellevue Digital Discovery,5,98005
+481,Highland Middle School,2,98007
+482,Lake Hills Elementary,1,98007
+483,Odle Middle School,5,98007
+484,Stevenson Elementary,1,98007
+485,Bellevue Big Picture School,4,98007
+486,Bow Lake Elementary,0,98188
+487,Chinook Middle School,0,98188
+488,McMicken Heights Elementary,1,98188
+489,Tyee High School,0,98188
+490,Valley View Early Childhood Center,5,98188
+491,Thorndyke Elementary,0,98188
+492,Star Lake Elementary School,1,98032
+493,Sunnycrest Elementary School,0,98032
+494,Evergreen Middle School,0,98032
+495,Kent Elementary School,0,98032
+496,Neely O Brien Elementary School,1,98032
+497,Regional Justice Center,5,98032
+498,Mill Creek Middle School,0,98032
+499,Carnation Elementary School,4,98014
+500,Tolt Middle School,4,98014
+501,Clip,5,98014
+502,Parade,5,98014
+503,Choice,5,98014
+504,Stillwater Elementary,4,98014
+505,Chautauqua Elementary,4,98070
+506,McMurray Middle School,4,98070
+507,Vashon Island High School,5,98070
+508,Family Link,5,98070
+509,Student Link,2,98070
+510,John Hay Elementary School,4,98109
+511,The Center School,5,98109
+512,Queen Anne Elementary,4,98109
+513,Lowell Elementary School,2,98102
+514,Tops K-8 School,4,98102
+515,Black Diamond Elementary,3,98010
+516,Sawyer Woods Elementary School,4,98010
+517,Fall City Elementary,5,98024
+518,Chief Kanim Middle School,5,98024
+519,Highline High School,1,98148
+520,Puget Sound Skills Center,5,98148
+521,North Hill Elementary,4,98148
+522,CHOICE Academy,5,98148
+523,Satellite High School,5,98148
+524,Big Picture School,2,98148
+525,Puget Sound High School,5,98148
+526,Highline Home School Center,5,98148
+527,Medina Elementary School,5,98039
