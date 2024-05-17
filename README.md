@@ -23,6 +23,7 @@ We used the following websites for the respective data:
 1. For all the zipcodes of King County, WA: [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 2. For public ratings in King County, WA: [SchoolDigger](https://www.schooldigger.com/go/WA/county/King+County/search.aspx)
 3. For the real estate data from King County, WA: [Redfin](https://www.redfin.com/county/118/WA/King-County)
+4. For crime data in King County, WA: [CrimeGrade.org](https://crimegrade.org/crime-by-zip-code/)
 
 
 
