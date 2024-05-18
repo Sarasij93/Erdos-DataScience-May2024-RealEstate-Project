@@ -29,6 +29,8 @@ We used the following websites for the respective data:
 
 ## Data Description
 
+The data set includes price for different real estate property types in King county, washington. There are 7031 rows and 29 columns. 
+
 
 
 
