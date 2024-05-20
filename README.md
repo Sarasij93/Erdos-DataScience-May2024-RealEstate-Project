@@ -17,12 +17,12 @@ The main techniques that we will use here for various model comparisons are:
 -
 
 ## Dataset
-- __Data Collection__ : We used the following websites for the respective data:
+- __Data Collection__ : We used the following websites for the respective data from King County, WA:
 
-     1. For all the zipcodes of King County, WA: [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
-     2. For public ratings in King County, WA: [SchoolDigger](https://www.schooldigger.com/go/WA/county/King+County/search.aspx)
-     3. For the real estate data from King County, WA: [Redfin](https://www.redfin.com/county/118/WA/King-County)
-     4. For crime data in King County, WA: [CrimeGrade.org](https://crimegrade.org/crime-by-zip-code/)
+     1. For most zipcodes: [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction); we added some more zipcodes to these.
+     2. For public school ratings: [SchoolDigger](https://www.schooldigger.com/go/WA/county/King+County/search.aspx)
+     3. For the real estate data: [Redfin](https://www.redfin.com/county/118/WA/King-County)
+     4. For crime data: [CrimeGrade.org](https://crimegrade.org/crime-by-zip-code/)
 
 
 
