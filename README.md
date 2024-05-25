@@ -40,6 +40,28 @@ The main techniques that we will use here for various model comparisons are:
 - Get a baseline model of predicting the mean price and use our models to improve upton this.
 - Get a good understanding of the key independent features that significantly affect house price.
 
+## Data Collection 
+
+- We used a data set that includes prices and features values of properties in King county, Washington, USA. The data sets were downloaded from the real estate property listing website  Redfin.
+- In order to add school and crime ratings we used the websites SchoolDigger and CrimeGrade.org. 
+
+## Data Description 
+- After filling out missing location values using other location data such as city and zip codes and dropping rows with missing values, the cleaned data set includes 4700 rows and 19 columns with 5 categorical variables and 14 numerical variables. 
+## Data Pre-Processing:
+- Split the dataset into training and testing
+- Perform exploratory data analysis on training set to better understand the data set 
+- Identify features to be used in the model 
+- prepare for modeling by scaling 
+## Modeling approach:
+- Baseline models - mean prices of the houses and K- Nearest Neighbors. 
+- Advanced techniques:
+- Multiple linear regression with feature set 1 
+- Multiple linear regression with feature set 2
+- Random forest regressor
+- XGBoost regressor
+- Neural Networks ?
+
+
 
 
 
