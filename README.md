@@ -42,8 +42,9 @@ The main techniques that we will use here for various model comparisons are:
 
 ## Data Collection 
 
-- We used a data set that includes prices and features values of properties in King county, Washington, USA. The data sets were downloaded from the real estate property listing website  Redfin.
-- In order to add school and crime ratings we used the websites SchoolDigger and CrimeGrade.org. 
+- We used a data set that includes prices and features values of properties in King county, Washington, USA. The data sets were downloaded from the real estate property listing website [Redfin](https://www.redfin.com/county/118/WA/King-County).
+- In order to add school and crime ratings we used the websites [SchoolDigger](https://www.schooldigger.com/go/WA/county/King+County/search.aspx) and [CrimeGrade.org](https://crimegrade.org/crime-by-zip-code/)
+. 
 
 ## Data Description 
 - After filling out missing location values using other location data such as city and zip codes and dropping rows with missing values, the cleaned data set includes 4700 rows and 19 columns with 5 categorical variables and 14 numerical variables. 
