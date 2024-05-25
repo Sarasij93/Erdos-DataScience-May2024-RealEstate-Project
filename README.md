@@ -58,6 +58,7 @@ The main techniques that we will use here for various model comparisons are:
 - Advanced techniques:
 - Multiple linear regression with feature set 1 
 - Multiple linear regression with feature set 2
+- Decision tree regressor
 - Random forest regressor
 - XGBoost regressor
 - Neural Networks ?
