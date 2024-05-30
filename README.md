@@ -57,6 +57,7 @@ By looking at the histograms of predicted prices versus actual prices on the tes
 
 
 <img width="602" alt="histogramxgboost" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/ecd9cfe7-d4c9-4fb3-9cf5-aa5f67ab9d3e">
+
 To further evaluate the model we also looked at the qq-plot and residual plot. 
 
 
