@@ -30,7 +30,7 @@ In order to add school and crime ratings we used webscraping tools such as `beau
 
 
 - __Data Description and Cleaning__
-For each zipcode, we used [Bayesian Average](https://en.wikipedia.org/wiki/Bayesian_average) of the school ratings to have a good representation of the public schools in that location. We then aadded crime and school columns to the housing data. After filling out missing location values using other location data such as city and zip codes and dropping rows with missing values, the cleaned data set includes 4700 rows and 19 columns with 5 categorical variables and 14 numerical variables. The complete data sets are available under [data folder](https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/tree/FC-Trace-main/data) above.
+For each zipcode, we used [Bayesian Average](https://en.wikipedia.org/wiki/Bayesian_average) of the school ratings to have a good representation of the public schools in that location. We then added crime and school columns to the housing data. After filling out missing location values using other location data such as city and zip codes and dropping rows with missing values, the cleaned data set includes 4700 rows and 19 columns with 5 categorical variables and 14 numerical variables. The complete data sets are available under [data folder](https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/tree/FC-Trace-main/data) above.
 
 - __Data Pre-Processing and Exploratory Data Analysis__
   - Include new features such as Age and log_price. Age = 2024 - YEAR BUILT, Log_price = log(PRICE)
