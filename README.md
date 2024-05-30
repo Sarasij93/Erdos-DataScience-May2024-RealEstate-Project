@@ -49,7 +49,7 @@ After filling out missing location values using other location data such as city
 
 <img width="533" alt="rmseall" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/e000baa8-34ab-4c64-86c0-57a21be4de0a">
 
-XGBoost model showed the best performance. We further explored the most significant features in this model. 
+overall, all the models showed lower rmses, XGBoost model showed the best performance. We further explored the most significant features in this model. 
 
 <img width="440" alt="featuresxgboost" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/fa1c64c3-8475-4223-93cf-6d10ed6f8903">
 
@@ -57,9 +57,16 @@ By looking at the histograms of predicted prices versus actual prices on the tes
 
 
 <img width="602" alt="histogramxgboost" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/ecd9cfe7-d4c9-4fb3-9cf5-aa5f67ab9d3e">
+To further evaluate the model we also looked at the qq-plot and residual plot. 
 
 
+<img width="354" alt="qqplot" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/70cac537-ba3d-499f-8182-1c54088d11d5">
 
+<img width="339" alt="residual" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/512068ec-4a46-4a9b-8023-64b8ab1b5bc9">
+
+## Web Application
+
+We were alsi able to build a simple web application that ... 
 ## Conclusions
 
 ## Future Work
