@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 30 13:25:44 2024
-
-@author: Owner
-"""
-
 pandas
 numpy
 folium
 streamlit-folium
+
