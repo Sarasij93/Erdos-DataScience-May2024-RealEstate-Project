@@ -23,14 +23,6 @@ Our primary goal is to predict housing prices for King County, WA, USA based on 
 
   
 ## Dataset
-- __Data Collection__ : We used the following websites for the respective data from King County, WA:
-
-     1. For most zipcodes: [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction); we added some more zipcodes to these.
-     2. For public school ratings: [SchoolDigger](https://www.schooldigger.com/go/WA/county/King+County/search.aspx)
-     3. For the real estate data: [Redfin](https://www.redfin.com/county/118/WA/King-County)
-     4. For crime data: [CrimeGrade.org](https://crimegrade.org/crime-by-zip-code/)
-
-
 
 - __Data Collection__
 We used a data set that includes prices and features values of properties in King county, Washington, USA. The data sets were downloaded from the real estate property listing website [Redfin](https://www.redfin.com/county/118/WA/King-County).
