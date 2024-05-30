@@ -49,7 +49,7 @@ For each zipcode, we used [Bayesian Average](https://en.wikipedia.org/wiki/Bayes
 
 <img width="533" alt="rmseall" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/e000baa8-34ab-4c64-86c0-57a21be4de0a">
 
-Overall, all the models showed lower rmses; XGBoost model showed the best performance. We further explored the most significant features in this model. 
+Overall, all the models showed lower [Root Mean Squared Error (rmse)](https://en.wikipedia.org/wiki/Root_mean_square_deviation) compared to our baseline model; XGBoost model showed the best performance. We further explored the most significant features in this model. 
 
 <img width="440" alt="featuresxgboost" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/fa1c64c3-8475-4223-93cf-6d10ed6f8903">
 
