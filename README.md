@@ -32,18 +32,18 @@ In order to add school and crime ratings we used the websites [SchoolDigger](htt
 - __Data Description__
 After filling out missing location values using other location data such as city and zip codes and dropping rows with missing values, the cleaned data set includes 4700 rows and 19 columns with 5 categorical variables and 14 numerical variables. 
 - __Data Pre-Processing__
- - Split the dataset into training and testing
- - Perform exploratory data analysis on training set to better understand the data set 
- - Identify features to be used in the model 
- - prepare for modeling by scaling 
+  - Split the dataset into training and testing
+  - Perform exploratory data analysis on training set to better understand the data set 
+  - Identify features to be used in the model 
+  - prepare for modeling by scaling 
 ## Modeling approach:
 - Baseline models - mean prices of the houses and K- Nearest Neighbors. 
 - Advanced techniques:
- - Multiple linear regression with feature set 1 
- - Multiple linear regression with feature set 2
- - Decision tree regressor
- - Random forest regressor
- - XGBoost regressor
+  - Multiple linear regression with feature set 1 
+  - Multiple linear regression with feature set 2
+  - Decision tree regressor
+  - Random forest regressor
+  - XGBoost regressor
 
 
 
