@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # In[2]:
 
 
-df = pd.read_csv("../data/Cleaned_data.csv")
+df = pd.read_csv("Cleaned_data.csv")
 
 
 # In[3]:
