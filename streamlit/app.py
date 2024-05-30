@@ -65,7 +65,7 @@ if zipcode:
     longitude = st.select_slider('Enter Latitude', long_range(zipcode))
     
 if latitude and longitude:
-    st.write('Chosen Latitude and Logitude', (latitude, longitude))
+    st.write('Chosen Latitude and Longitude', (latitude, longitude))
     spec=pd.DataFrame({'LATITUDE':latitude,
                       'LONGITUDE':longitude,
                       'index':[0]})
