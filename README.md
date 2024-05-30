@@ -6,14 +6,12 @@
 
 ## Overview
 
-Our primary goal is to predict housing prices for King County, WA, USA based on a number of features. We added features like school and crime rates for a given zip code. 
-
- - If time permits, we will build a small app too that estimates housing price for a user who specifies the criteria in the app. 
+Our primary goal is to predict housing prices for King County, WA, USA based on a number of features. We added some new features like school and crime rates for a given zip code.  We also built a small app on Streamlit that estimates housing price for a user who specifies the criteria in the app. 
 
 ## Stakeholders
 
 - Families looking to settle down in King County, WA
-- Real estate agents trying to give estimates to housing prices based on customer inputs like sqft, number of bed, baths, saffety of neighbourhood, etc. 
+- Real estate agents trying to give estimates to housing prices based on customer inputs like sqft, number of bed, baths, safety of neighbourhood, etc. 
 
 ## KPIs
 
@@ -70,7 +68,8 @@ To further evaluate the model we also looked at the qq-plot and residual plot.
 
 ## Web Application
 
-We were alsi able to build a simple web application that ... 
+Uisng our final model, we built a simple web application on Streamlit that takes in user inputs (relvant to our model) and predicts the house price. The app is available at [King County Price Prediction App 2024](https://erdos-datascience-may2024-realestate-project-nevrbzjn2sh2zgsrc.streamlit.app/). We used modules such as folium to incorporate a map that shows nearby airports, big cities, etc. that hopefully gives a better idea of the desired location for the user. The relevant codes and files can be found under the streamlit folder above. (Due to technical reasons, some of the files have been copied to the main git page also.)
+
 ## Conclusions
 
 ## Future Work
