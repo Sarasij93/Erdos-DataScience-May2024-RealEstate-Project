@@ -47,8 +47,9 @@ After filling out missing location values using other location data such as city
   - Random forest regressor
   - XGBoost regressor
 
-
 <img width="533" alt="rmseall" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/e000baa8-34ab-4c64-86c0-57a21be4de0a">
+
+XGBoost model showed the best performance. We further explored the most significant features in this model. 
 
 
 
