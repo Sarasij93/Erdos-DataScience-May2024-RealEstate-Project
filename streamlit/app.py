@@ -11,7 +11,7 @@ import numpy as np
 import folium
 from streamlit_folium import st_folium
 
-df = pd.read_csv('../data/Cleaned_data.csv')
+df = pd.read_csv('Cleaned_data.csv')
 zip_options = np.sort(np.unique(df['zipcode'].values))
 
 
