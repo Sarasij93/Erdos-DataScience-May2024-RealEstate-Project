@@ -48,6 +48,7 @@ After filling out missing location values using other location data such as city
   - XGBoost regressor
 
 
+<img width="533" alt="rmseall" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/e000baa8-34ab-4c64-86c0-57a21be4de0a">
 
 
 
