@@ -37,7 +37,7 @@ For each zipcode, we used [Bayesian Average](https://en.wikipedia.org/wiki/Bayes
   - Split the dataset into training and testing
   - Perform exploratory data analysis (eda) on training set to better understand the data set. The plots from the eda along with relevant comments are available under [EDA folder](https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/tree/FC-Trace-main/EDA) above. None of the variables seemed to exhibit an obvious correlation with `log_price`. The boxplot of the property type does seem to indicate that there is a dependency with the price.
 
- <img width="602" alt="boxplot_property_type" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/EDA/boxplot_property_type.png">
+ 
     
   - Identify features to be used in the models: We decided to use `BEDS, BATHS, SQUARE FEET, LOT SIZE, AGE, LATITUDE, LONGITUDE, Bayes_RatingSchool, crime_percentage, Age, zipcode, Property type (5 classes)` as our features for our models. 
   - prepare for modeling - we perform _One hot encoding_ on the categorical variable `PROPERTY_TYPE` so that the effect of this categorical variable is included in our models.
