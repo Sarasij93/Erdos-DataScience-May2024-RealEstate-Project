@@ -51,6 +51,12 @@ After filling out missing location values using other location data such as city
 
 XGBoost model showed the best performance. We further explored the most significant features in this model. 
 
+<img width="440" alt="featuresxgboost" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/fa1c64c3-8475-4223-93cf-6d10ed6f8903">
+
+By looking at the histograms of predicted prices versus actual prices on the testing set using the XGBoost model, we observde that while the model tended to underestimate the prices, it generally performed well in its predictions.
+
+
+<img width="602" alt="histogramxgboost" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/ecd9cfe7-d4c9-4fb3-9cf5-aa5f67ab9d3e">
 
 
 
