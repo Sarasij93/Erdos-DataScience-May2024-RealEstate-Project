@@ -30,17 +30,19 @@ In order to add school and crime ratings we used the websites [SchoolDigger](htt
 . 
 
 - __Data Description__
-After filling out missing location values using other location data such as city and zip codes and dropping rows with missing values, the cleaned data set includes 4700 rows and 19 columns with 5 categorical variables and 14 numerical variables. 
+After filling out missing location values using other location data such as city and zip codes and dropping rows with missing values, the cleaned data set includes 4700 rows and 19 columns with 5 categorical variables and 14 numerical variables.
+- __Data Cleaning__
 - __Data Pre-Processing__
+  - Include new features such as Age and log_price. Age = 2024 - YEAR BUILT, Log_price = log(PRICE)
   - Split the dataset into training and testing
   - Perform exploratory data analysis on training set to better understand the data set 
-  - Identify features to be used in the model 
-  - prepare for modeling by scaling 
+  - Identify features to be used in the model: We decided to use BEDS, BATHS, SQUARE FEET, LOT SIZE, AGE, LATITUDE, LATITUDE, Bayes_RatingSchool, crime_percentage, Age, zipcode, Property type (5 classes)
+  - prepare for modeling - One hot encoding on the categorical variable PROPERTY_TYPE. 
 ## Modeling approach:
-- Baseline models - mean prices of the houses and K- Nearest Neighbors. 
+- Baseline models - mean prices(in log scale)
 - Advanced techniques:
-  - Multiple linear regression with feature set 1 
-  - Multiple linear regression with feature set 2
+  - K- Nearest Neighbors. 
+  - Multiple linear regression 
   - Decision tree regressor
   - Random forest regressor
   - XGBoost regressor
