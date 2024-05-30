@@ -56,7 +56,7 @@ Overall, all the models showed lower [Root Mean Squared Error (rmse)](https://en
 
 It is interesting to note the significant features in this model. Despite there being no strong correlation between Age and price, Age still contributes significantly to price determination, which is somewhat expected. Additionally, it makes sense that latitude and longitude have higher scores, as properties closer to commercial cities generally have higher prices compared to those further away. This relationship is effectively captured by these two features. Furthermore, school and crime ratings also play a crucial role in determining property prices, similar to the number of bedrooms and bathrooms.
 
-By looking at the histograms of predicted prices versus actual prices on the testing set using the XGBoost model, we observde that while the model tended to underestimate the prices, it generally performed well in its predictions.
+By looking at the histograms of predicted prices versus actual prices on the testing set using the XGBoost model, we observed that while the model tended to underestimate the prices, it generally performed well in its predictions. 
 
 
 <img width="602" alt="histogramxgboost" src="https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/assets/127027916/ecd9cfe7-d4c9-4fb3-9cf5-aa5f67ab9d3e">
