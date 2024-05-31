@@ -80,7 +80,21 @@ To further evaluate the model we also looked at the qq-plot and residual plot.
 Using our final model, we built a simple web application on Streamlit that takes in user inputs (relvant to our model) and predicts the house price. The app is available at [King County Price Prediction App 2024](https://erdos-datascience-may2024-realestate-project-nevrbzjn2sh2zgsrc.streamlit.app/). We used modules such as folium to incorporate a map that shows nearby airports, big cities, etc. that hopefully gives a better idea of the desired location for the user. The relevant codes and files can be found under the [streamlit folder](https://github.com/Sarasij93/Erdos-DataScience-May2024-RealEstate-Project/tree/FC-Trace-main/streamlit) above. (Due to technical reasons, some of the files have been copied to the main git page also.)
 
 ## Conclusions
+Overall, all models did improve from the baseline model and did well on predicting the price.​
 
+Contribution of non-traditional features are similar to some of the traditional features.​
 ## Future Work
+Extend the study for other states.​​
 
+Incorporate more relevant features such as ​​
+
+whether the house has experienced flooding, ​​
+
+has mold issues, ​​
+
+the quality of construction materials, ​​
+
+the floor plan, and ​​
+
+whether fixtures and appliances have been recently updated.​​
 
