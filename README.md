@@ -18,7 +18,7 @@ Our primary goal is to predict housing prices for King County, WA, USA based on 
 ## KPIs
 
 - Get the mean price of houses in King County, WA using the data and use our models to compare with that.
-- Get a baseline model of predicting the mean price and use our models to improve upton this.
+- Get a baseline model of predicting the mean price and use our models to improve upon this.
 - Get a good understanding of the key independent features that significantly affect house price.
 
   
